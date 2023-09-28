@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinisted.
+- 👋 Hi, I’m @vinicius.
 - 🌱 I’m currently learning python, Delphi and EXCEL.
 - 💞️ I’m looking for collaborate on development area.
 - 📫 How to reach me: viniciusaraujo.145@outlook.com. or...
